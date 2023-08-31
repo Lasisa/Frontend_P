@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+
+      background-color: rgb(255, 255, 255);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 90px;
+      margin: 0 auto;
+      max-width: 1310px;
+  }
+  
+  nav a{
+      text-decoration: none;
+      color: black;
+  }
+  
+  nav .links {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      justify-content: end;
+      gap: 20px;
+  }
+
+  nav .connect {
+      width: 173px;
+      height: 50px;
+      flex-shrink: 0;
+      border-radius: 25px;
+      border: 2px solid #57209f;
+      background-color: rgb(83, 64, 208);
+      font-weight: 700px;
+      cursor: pointer;
+      color: white;
+  }
+  
+  #logo { 
+      display: flex;
+      gap: 20px;
+  }
+
+main {
+
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 40px;
+}
+.container-text {
+    color: grey;
+    margin-top: 20px;
+    width: 350px;
+
+}
+.container-button {
+    width: 180px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: 2px solid #57209f;
+    background-color: rgb(83, 64, 208);
+    font-weight: 700px;
+    cursor: pointer;
+    color: white;
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+header, footer, h4 {
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+
+.monitor  {
+    gap: 30%;
+}
+.kkk {
+    gap: 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.square-one {
+    display: flex;
+    gap: 30px;
+    font-size: 15px;
+    color: gray;
+
+}
+.square-two {
+    display: flex;
+    gap: 30px;
+    font-size: 15px;
+    color: gray;
+
+}
+.square-three {
+    display: flex;
+    gap: 30px;
+    font-size: 15px;
+    color: gray;
+    font-weight: normal;
+
+}
+.square-four {
+    display: flex;
+    gap: 30px;
+    font-size: 15px;
+    color: gray;
+    font-weight: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+h3 {
+    color: black;
+}
+
+
+
+.b {
+    height: 500px;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.square-one {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.monitor {
+    display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
